@@ -12,7 +12,6 @@ The programm creating .txt file with hashes of moves:
 hash_of_current_situation: hash_for_1st_player_win    hash_for_2nd_player_win    hash_for_draw
 
 Example:
-
 50:  212 1508 536
 -----------------------------------------------------------
 Generating time: 0.1 sec
