@@ -1,5 +1,5 @@
 # TIC-TAC-TOE-generating-programm
-My programm creates a .txt file with information about profitable moves
+My programm creates a .txt file with information about profitable moves WITHOUT std library (except for smart pointers).
 -----------------------------------------------------------
 Task at university: 
 - Create a bot that can play with four difficulties (hard, mid (can't lose), easy, random).
