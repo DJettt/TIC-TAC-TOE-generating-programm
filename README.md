@@ -14,7 +14,7 @@ hash_of_current_situation: hash_for_1st_player_win    hash_for_2nd_player_win   
 Example:
 50:  212 1508 536
 -----------------------------------------------------------
-Generating time: 0.1 sec 
+Generating time: 0.1 sec
 Memory used:     5 MB
 -----------------------------------------------------------
 I'll add an explanation how it works later.
