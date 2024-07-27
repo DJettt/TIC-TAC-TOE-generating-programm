@@ -6,7 +6,7 @@ Task at university:
 - You can choose which character you will play with the bot.
 My part of this task was backend.
 -----------------------------------------------------------
-Creates a .txt file with information about profitable moves
+My programm creates a .txt file with information about profitable moves
 -----------------------------------------------------------
 The programm creating .txt file with hashes of moves:
 hash_of_current_situation: hash_for_1st_player_win    hash_for_2nd_player_win    hash_for_draw
